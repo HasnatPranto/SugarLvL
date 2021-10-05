@@ -1,0 +1,12 @@
+.HBgCol{
+    -fx-background-color:  linear-gradient(to top, #fcc581, #fffcfa);
+}
+.blueButton{
+    -fx-background-color:  #5171db;
+}
+.backButton{
+    -fx-background-color: #fc5b6b;
+}
+.QBgCol{
+    -fx-background-color:  linear-gradient(to top, #a5c6fa, #fffcfa);
+}
